@@ -41,7 +41,6 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Ground","path":"sprites/Ground/Ground.yy",},},
     {"id":{"name":"Player_Ground","path":"sprites/Player_Ground/Player_Ground.yy",},},
-    {"id":{"name":"Spike","path":"sprites/Spike/Spike.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

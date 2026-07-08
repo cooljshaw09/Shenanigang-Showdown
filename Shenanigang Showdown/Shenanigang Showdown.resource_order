@@ -21,6 +21,5 @@
     {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
     {"name":"Player","order":1,"path":"objects/Player/Player.yy",},
     {"name":"Ground","order":2,"path":"sprites/Ground/Ground.yy",},
-    {"name":"Spike","order":3,"path":"sprites/Spike/Spike.yy",},
   ],
 }
